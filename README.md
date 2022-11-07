@@ -2,7 +2,7 @@
 
 Learning to play games using just the visual input.
 
-Implemented it from understanding of [research paper](https://arxiv.org/pdf/1312.5602.pdf) and network is in my own library. https://github.com/ShivamShrirao/dnn_from_scratch .
+Implemented it from understanding of [research paper](https://arxiv.org/pdf/1312.5602.pdf) and network is in this library. https://github.com/ShivamShrirao/dnn_from_scratch .
 
 Using OpenAI gym as game environment.
 
